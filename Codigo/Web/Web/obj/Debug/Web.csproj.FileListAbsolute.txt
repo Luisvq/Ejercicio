@@ -1,0 +1,28 @@
+c:\users\david\documents\visual studio 2012\Projects\Web\Web\bin\Web.dll
+c:\users\david\documents\visual studio 2012\Projects\Web\Web\bin\Web.pdb
+c:\users\david\documents\visual studio 2012\Projects\Web\Web\bin\Web.Logica.dll
+c:\users\david\documents\visual studio 2012\Projects\Web\Web\bin\Web.Logica.pdb
+c:\users\david\documents\visual studio 2012\Projects\Web\Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
+c:\users\david\documents\visual studio 2012\Projects\Web\Web\obj\Debug\Web.dll
+c:\users\david\documents\visual studio 2012\Projects\Web\Web\obj\Debug\Web.pdb
+C:\Users\lvillalobos\Downloads\nuevos\Web\Web\bin\Web.dll
+C:\Users\lvillalobos\Downloads\nuevos\Web\Web\bin\Web.pdb
+C:\Users\lvillalobos\Downloads\nuevos\Web\Web\bin\Web.Logica.dll
+C:\Users\lvillalobos\Downloads\nuevos\Web\Web\bin\Web.Logica.pdb
+C:\Users\lvillalobos\Downloads\nuevos\Web\Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
+C:\Users\lvillalobos\Downloads\nuevos\Web\Web\obj\Debug\Web.dll
+C:\Users\lvillalobos\Downloads\nuevos\Web\Web\obj\Debug\Web.pdb
+C:\Users\GeosHoldingSoftco\Desktop\Web\Web\bin\Web.dll
+C:\Users\GeosHoldingSoftco\Desktop\Web\Web\bin\Web.pdb
+C:\Users\GeosHoldingSoftco\Desktop\Web\Web\bin\Web.Logica.dll
+C:\Users\GeosHoldingSoftco\Desktop\Web\Web\bin\Web.Logica.pdb
+C:\Users\GeosHoldingSoftco\Desktop\Web\Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
+C:\Users\GeosHoldingSoftco\Desktop\Web\Web\obj\Debug\Web.dll
+C:\Users\GeosHoldingSoftco\Desktop\Web\Web\obj\Debug\Web.pdb
+C:\Users\lvillalobos\Desktop\Web\Web\bin\Web.dll
+C:\Users\lvillalobos\Desktop\Web\Web\bin\Web.pdb
+C:\Users\lvillalobos\Desktop\Web\Web\bin\Web.Logica.dll
+C:\Users\lvillalobos\Desktop\Web\Web\bin\Web.Logica.pdb
+C:\Users\lvillalobos\Desktop\Web\Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
+C:\Users\lvillalobos\Desktop\Web\Web\obj\Debug\Web.dll
+C:\Users\lvillalobos\Desktop\Web\Web\obj\Debug\Web.pdb
